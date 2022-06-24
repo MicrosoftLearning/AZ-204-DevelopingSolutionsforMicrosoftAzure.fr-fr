@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a0384c399e26652e2516e9e6a16b6b892cd0e8b0
-ms.sourcegitcommit: 59c540737d0d7c14e6b56805afed30f1df1561f8
+ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
+ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "145196143"
+ms.lasthandoff: 06/23/2022
+ms.locfileid: "146565018"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>(AZ-204) Développement de solutions pour Microsoft Azure
 
@@ -15,6 +15,7 @@ ms.locfileid: "145196143"
 - **Orientez les étudiants** vers [https://aka.ms/az204labs](https://aka.ms/az204labs) pour accéder à une liste conviviale d’instructions de laboratoire.
 - **Êtes-vous un MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **Vous devez générer manuellement les instructions de labo ?** - Les instructions sont disponibles dans le référentiel [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 
+- Ajout d’un [projet](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1) pour suivre la progression des problèmes/PR.
 
 ## <a name="security-issue---february-2022"></a>Problème de sécurité - Février 2022
 
