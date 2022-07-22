@@ -82,7 +82,7 @@ ms.locfileid: "145196226"
   }
   ```
 
-- Configurez le menu Démarrer et la Barre des tâches pour inclure uniquement les icônes suivantes :
+- Configurez le menu Démarrer et la barre des tâches pour inclure uniquement les icônes suivantes:
   - Explorateur de fichiers
   - Edge
   - Terminal Windows
