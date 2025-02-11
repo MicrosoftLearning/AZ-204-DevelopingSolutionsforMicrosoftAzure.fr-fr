@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # AZ-204 : développement de solutions pour Microsoft Azure
 
 > **Remarque** : les étudiants devraient être invités à synchroniser le dépôt s’ils ne reçoivent pas les AllFiles par l’intermédiaire de l’hébergeur du labo. 
