@@ -15,3 +15,4 @@ Les liens hypertexte vers chaque labo sont répertoriés ci-dessous.
 | --- | --- |
 {% for activity in labs  %}{% if activity.lab.az204Module %}| {{ activity.lab.az204Module }} | [{{ activity.lab.az204Title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endif %}{% endfor %}
+
